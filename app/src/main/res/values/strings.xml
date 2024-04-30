@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">thirdGuidedExercise</string>
+    <string name="average">Average</string>
+    <string name="enter_first_number">Enter First Number</string>
+    <string name="enter_second_number">Enter Second Number</string>
+    <string name="sum">Sum</string>
+    <string name="sum_and_average_exercise">Sum and Average Exercise</string>
+    <string name="divide">Divide</string>
+    <string name="multiply">Multiply</string>
+</resources>
